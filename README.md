@@ -1,5 +1,3 @@
-# globalsuperstore
-
 # PowerBI  global super stone sales analysis report
 
 This is a Sales Analysis report created using Power BI,
@@ -47,9 +45,9 @@ and interact with the visualizations to dynamically update the report based on t
 To provide a more interactive and detailed explanation of the visualizations and insights in this report, 
 a video has been created that walks through the different components of the report. 
 The video highlights the key findings and demonstrates how stakeholders can interact with the report to gain valuable insights.
-Link to video: 
 
-#Conclusion
+
+# Conclusion
 
 This Power BI Sales Analysis Report provides stakeholders with a comprehensive view of the store's sales transactions. 
 By segmenting the visuals based on location and analyzing the data by shipmode, city, state, region, and market, stakeholders 
